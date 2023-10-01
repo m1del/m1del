@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://www.johnmiclat.dev/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.johnmiclat.dev/)
 <h1 align="center">Hi 👋, I'm John Miclat</h1>
 <h3 align="center">Aspiring SWE | DevOps | Machine Learning | Web Development</h3>
 
