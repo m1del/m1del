@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **Lebron James is the GOAT 🏀**
 
+<img align="right" alt="cute-gif" width="80px" style="border-radius:4px" src=https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johnmidelmiclat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnmidelmiclat" height="30" width="40" /></a>
