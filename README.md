@@ -7,13 +7,17 @@
 
 - 🌱 I’m currently learning **Neural Networks in Pytorch/TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://www.johnmiclat.dev/](https://www.johnmiclat.dev/)
+- 👨‍💻 Most of my projects are available at [https://www.johnmiclat.dev/](https://www.johnmiclat.dev/)
+
+- 🏃🏼‍♂️ My github is the most up to date wit projects!
 
 - 💬 Ask me about **DevOps, AI, Web Development**
 
 - 📫 How to reach me **miclatjohn1@gmail.com**
 
-- ⚡ Fun fact **Lebron James is the GOAT 🏀**
+- ⚡ Fun fact **I love basketball and music!** 🎼
+
+- 🏀**Lebron James is the GOAT** 🏀
 
 <img align="right" alt="cute-gif" width="80px" style="border-radius:4px" padding="2px" src=https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif>
 <h3 align="left">Connect with me:</h3>
