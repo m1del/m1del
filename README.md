@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **miclatjohn1@gmail.com**
 
-- ⚡ Fun fact **I love basketball and music!** 🎼
+- ⚡ Fun fact: **I love basketball and music!** 🎼
 
-- 🏀**Lebron James is the GOAT** 🏀
+- 🏀 **Lebron James is the GOAT** 🏀
 
 <img align="right" alt="cute-gif" width="80px" style="border-radius:4px" padding="2px" src=https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif>
 <h3 align="left">Connect with me:</h3>
