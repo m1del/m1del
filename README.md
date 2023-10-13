@@ -9,7 +9,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://www.johnmiclat.dev/](https://www.johnmiclat.dev/)
 
-- 🏃🏼‍♂️ My github is the most up to date wit projects!
+- 🏃🏼‍♂️ My github is the most up to date with projects!
 
 - 💬 Ask me about **DevOps, AI, Web Development**
 
