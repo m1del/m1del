@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.johnmiclat.dev/)
 <h1 align="center">Hi 👋, I'm John Miclat</h1>
-<h3 align="center">Aspiring SWE | DevOps | Machine Learning | Web Development</h3>
+<h3 align="center">Aspiring SWE | DevOps | Machine Learning | Full-stack (yay backend) Development</h3>
 <img align="right" alt="Coding" width="350" style="border-radius:8px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 🔭 I’m currently working at [Satlantis, LLC](https://satlantis.com/)
