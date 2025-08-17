@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm John Miclat</h1>
 <h3 align="center">Software Engineer | Backend Development | Machine Learning  
 
-<h4>
-    🔭 I’m currently working at <strong>Walmart Global Tech</strong>
-</h4>
-
 # <img align="right" alt="cute-gif" width="80px" style="border-radius:4px" padding="2px" src=https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
