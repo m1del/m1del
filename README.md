@@ -1,23 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.johnmiclat.dev/)
 <h1 align="center">Hi 👋, I'm John Miclat</h1>
-<h3 align="center">Software Engineer | MLOps | Full-stack Development</h3>
+<h3 align="center">Software Engineer | Backend Development | Machine Learning
 <img align="right" alt="Coding" width="350" style="border-radius:8px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
-🔭 I’m currently working at [Satlantis, LLC](https://satlantis.com/)
-
-🌱 I’m currently in my **last semester at the University of Florida**
-
-👨‍💻 Most of my projects are available at [https://www.johnmiclat.dev/](https://www.johnmiclat.dev/)
-
-🏃🏼‍♂️ My github is the most up to date with projects!
-
-💬 Ask me about **MLOps, AI, Backend Development**
-
-📫 How to reach me **miclatjohn1@gmail.com**
-
-⚡ Fun fact: **I love terminal based workflows** 🎼
-
-🏀 **Lebron James is the GOAT** 🏀
+🔭 I’m currently working at Walmart Global Tech
 
 # <img align="right" alt="cute-gif" width="80px" style="border-radius:4px" padding="2px" src=https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif>
 <h3 align="left">Connect with me:</h3>
